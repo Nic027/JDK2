@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "1055731919157",
+    "firebase_url": "https://dkj-automotive-default-rtdb.firebaseio.com",
+    "project_id": "dkj-automotive",
+    "storage_bucket": "dkj-automotive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055731919157:android:92b788f671948b6fc4c47c",
+        "android_client_info": {
+          "package_name": "jdk.com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxhTRMA1WCqZYNAD04FhUekB24zH3MuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055731919157:android:69288d2b315ed76bc4c47c",
+        "android_client_info": {
+          "package_name": "jdk.com.example.View"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxhTRMA1WCqZYNAD04FhUekB24zH3MuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055731919157:android:9a6c54248d4f7147c4c47c",
+        "android_client_info": {
+          "package_name": "jdk3.jdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxhTRMA1WCqZYNAD04FhUekB24zH3MuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055731919157:android:bee85400d0c0ac27c4c47c",
+        "android_client_info": {
+          "package_name": "traditionalgames.jdk.jdk2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxhTRMA1WCqZYNAD04FhUekB24zH3MuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
